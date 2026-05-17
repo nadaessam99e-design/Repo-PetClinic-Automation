@@ -13,7 +13,7 @@ An automated pipeline that builds, tests, and deploys 3 Microservices to a Kuber
 
 ### 1. Source Code (Monorepo)
 *   **Service A (Visits):** https://github.com/nadaessam99e-design/-petclinic-service-a.git
-*   **Service B (Vets):** https://github.com/nadaessam99e-design/petclinic-service-b.git
+*   **Service B (Vets):** https://github.com/nadaessam99e-design/-petclinic-service-b.git
 *   **Service C (Customers):** https://github.com/nadaessam99e-design/-petclinic-service-c.git
 
 ### 2. Automation Core (Jenkins Shared Library)
